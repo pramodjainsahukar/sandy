@@ -1,1 +1,1 @@
-# sandy - The sand box project
+# sandy
